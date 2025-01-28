@@ -9,8 +9,6 @@ Code scanning enables developers to integrate security analysis tooling into the
 - [Using context and expressions to modify build](#using-context-and-expressions-to-modify-build)
 - [Reviewing and managing results](#reviewing-and-managing-results)
 - [Triaging a result in a PR](#triaging-a-result-in-a-pr)
-- [Customizing CodeQL configuration](#customizing-codeql-configuration)
-- [Adding your own code scanning suite to exclude rules](#adding-your-own-code-scanning-suite-to-exclude-rules)
 
 ### _**Lab 3**_
 
